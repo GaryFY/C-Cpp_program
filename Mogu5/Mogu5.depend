@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473252536 source:e:\codeblocks\workspace\mogu5\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
