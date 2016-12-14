@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1472961982 source:e:\codeblocks\workspace\mogu1\main.cpp
-	<iostream>
-	<math.h>
-	<stdio.h>
-	<stdlib.h>
-
