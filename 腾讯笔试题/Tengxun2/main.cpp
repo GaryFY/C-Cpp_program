@@ -10,12 +10,12 @@ public:
         
         int count = 0,temp;
         for(int i = 0;i < n;i++){
-            //第一个数字
+            //不同抵消
             if(count == 0){
                 temp = gifts[i];
                 count = 1;
             }
-            //后面的数字
+            //相抵或相加操作
             else{
                 if(temp == gifts[i])
                     count++;
